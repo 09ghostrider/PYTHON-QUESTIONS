@@ -102,7 +102,7 @@ class Reverse:
     def words(Str):
         return ' '.join(reversed(Str.split()))
 
-words = "I AM NIKSH"
+words = "I AM GHOST"
 print(f"STRING: {words}\nREVERSE STRING: {Reverse.words(words)}")
 
 print("\n----------------------------------------------------------------------------------------------------\n")
